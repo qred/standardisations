@@ -1,2 +1,3 @@
-# standardisations
-Repository for Qred standardisations (can be made public)
+# Standardizations
+
+Repository for Qred standardizations (can be made public)

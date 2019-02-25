@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Qred.Standardisations
+namespace Qred.Standardizations
 {
 
     /// <summary>

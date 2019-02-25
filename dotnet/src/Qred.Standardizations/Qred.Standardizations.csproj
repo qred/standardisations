@@ -12,9 +12,9 @@
     <FileVersion>$(VersionPrefix).0</FileVersion>
 
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <PackageProjectUrl>https://github.com/qred/standardisations</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/qred/standardisations</RepositoryUrl>
-    <PackageReleaseNotes>Initial release of Qred .net core standardisations.</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/qred/standardizations</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/qred/standardizations</RepositoryUrl>
+    <PackageReleaseNotes>Initial release of Qred .net core standardizations.</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>

@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dotnet", "dotnet", "{765FD4
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D169BC61-E4A0-45E7-BDCA-C735C9D56532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qred.Standardisations", "dotnet\src\Qred.Standardisations\Qred.Standardisations.csproj", "{7E6340B2-EB0E-4E19-BC08-53128A9C1742}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qred.Standardizations", "dotnet\src\Qred.Standardizations\Qred.Standardizations.csproj", "{7E6340B2-EB0E-4E19-BC08-53128A9C1742}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
